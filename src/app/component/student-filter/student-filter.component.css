@@ -1,0 +1,14 @@
+.student-filter{
+    background-color: #F4F4F4;
+    padding: 15px 0;
+    margin: 0px;
+    font-size: 16px;
+}
+.student-filter-box{
+    padding: 15px 25px 0 25px; 
+    background-color: #fff;
+    border: 1px solid #fff;
+    padding: 10px;
+    box-shadow: 1px 5px 9px #ccc;
+    margin-bottom: 20px;
+}
